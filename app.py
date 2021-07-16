@@ -42,7 +42,7 @@ if __name__ == "__main__":
     def index():
         return 'Welcome to the Perseus API!. Please read the docs https://github.com/Drakomire/perseus-restful-api.'
 
-    poll = Poll()
+    poll = Poll(interval=60*6)
     if "prod" in sys.argv:
         print("Running waitress production server")
         serve(app,listen='*:5000')
