@@ -8,6 +8,7 @@ import os
 from os import path
 import hashlib
 import glob
+import time
 
 dir = os.path.dirname(__file__)
 
@@ -28,7 +29,7 @@ def safe_open(path, *args, **kwargs):
     return open(path, *args, **kwargs)
 
 
-def init(force: bool=False,url='https://raw.githubusercontent.com/Drakomire/perseus-data/master/dist/'):
+def init(force: bool=False,url='https://raw.githubusercontent.com/Drakomire/perseus-data/restful/dist/'):
     if not isinstance(force, bool):
         raise TypeError("argument force should be of type bool")
 
@@ -48,6 +49,10 @@ def init(force: bool=False,url='https://raw.githubusercontent.com/Drakomire/pers
     #Get checksums
     j = requests.get(url+'checksums.json').content
     checksums = json.loads(j)
+
+    f = open("data/checksums.json","wb")
+    f.write(j)
+    f.close()
 
     for key in checksums:
         filepath = path.join(dir,"data",key)
@@ -79,6 +84,6 @@ def init(force: bool=False,url='https://raw.githubusercontent.com/Drakomire/pers
         os.remove(i)
 
     if (not force):
-        print("Perseus:",downloaded+changed,"files downloaded.",deleted,"files deleted.",kept,"files did not require an update.")
+        print(downloaded+changed,"files downloaded.",deleted,"files deleted.",kept,"files did not require an update.")
     else:
-        print("Perseus:",downloaded+changed,"files downloaded.",deleted,"files deleted.")
+        print(downloaded+changed,"files downloaded.",deleted,"files deleted.")
