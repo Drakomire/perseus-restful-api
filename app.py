@@ -21,7 +21,7 @@ class Poll:
 
     def run(self):
         """ Method that runs forever """
-        getVersion = lambda: requests.get("https://raw.githubusercontent.com/Drakomire/perseus-data/restful/dist/version").content
+        getVersion = lambda: requests.get("https://raw.githubusercontent.com/Drakomire/perseus-data/master/dist/version").content
         cur_version = getVersion()
         init()
         startup()

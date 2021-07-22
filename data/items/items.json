@@ -3950,6 +3950,20 @@
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/14003.png",
     "rarity": 4
   },
+  "14004": {
+    "names": {
+      "en": "Prototype Weapon Blueprint - Series 4",
+      "cn": "原型科研图纸·S-IV",
+      "jp": "プロト設計図・S-Ⅳ"
+    },
+    "display": {
+      "en": "Prototype Weapon Blueprint - Series 4",
+      "cn": "原型科研图纸·S-IV",
+      "jp": "プロト設計図・S-Ⅳ"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/14004.png",
+    "rarity": 4
+  },
   "15001": {
     "names": {"en": "Medal of Honor", "cn": "荣誉勋章", "jp": "勲章"},
     "display": {"en": "Medal of Honor", "cn": "荣誉勋章", "jp": "勲章"},
@@ -4025,6 +4039,12 @@
     },
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/15010.png",
     "rarity": 4
+  },
+  "15011": {
+    "names": {"en": "Unity Tiara ", "cn": "誓约之冠", "jp": "絆のティアラ"},
+    "display": {"en": "Unity Tiara ", "cn": "誓约之冠", "jp": "絆のティアラ"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/tiara.png",
+    "rarity": 5
   },
   "16001": {
     "names": {
@@ -5282,6 +5302,12 @@
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/30113.png",
     "rarity": 3
   },
+  "30114": {
+    "names": {"en": "Universal T4 Plate", "cn": "定向部件T4", "jp": "指向性強化パーツT4"},
+    "display": {"en": "Universal T4 Plate", "cn": "定向部件T4", "jp": "指向性強化パーツT4"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/30114.png",
+    "rarity": 4
+  },
   "30121": {
     "names": {
       "en": "Oil Reserve Supply (1000) ",
@@ -5314,6 +5340,20 @@
       "jp": "SSR選択装備箱"
     },
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/30202.png",
+    "rarity": 4
+  },
+  "30203": {
+    "names": {
+      "en": "Gear Lab Development Pack ",
+      "cn": "定向装备箱·研发装备①",
+      "jp": "兵装開発専用①・選択装備箱"
+    },
+    "display": {
+      "en": "Gear Lab Development Pack ",
+      "cn": "定向装备箱·研发装备①",
+      "jp": "兵装開発専用①・選択装備箱"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/30203.png",
     "rarity": 4
   },
   "30301": {
@@ -5640,9 +5680,23 @@
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/appearanceboxyouleyuan.png",
     "rarity": 4
   },
+  "30327": {
+    "names": {
+      "en": "Gear Skin Box (The Idolmaster) ",
+      "cn": "外观装备箱(偶像大师)",
+      "jp": "装備外装箱（アイドルマスター）"
+    },
+    "display": {
+      "en": "Gear Skin Box (The Idolmaster) ",
+      "cn": "外观装备箱(偶像大师)",
+      "jp": "装備外装箱（アイドルマスター）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/appearanceboxidolmaster.png",
+    "rarity": 4
+  },
   "30900": {
-    "names": {"en": "定向部件T4", "cn": "定向部件T4", "jp": "定向部件T4"},
-    "display": {"en": "定向部件T4", "cn": "定向部件T4", "jp": "定向部件T4"},
+    "names": {"en": "定向部件T4", "cn": "定向部件T4", "jp": "指向性強化パーツT4"},
+    "display": {"en": "定向部件T4", "cn": "定向部件T4", "jp": "指向性強化パーツT4"},
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/wsuijibujian.png",
     "rarity": 4
   },
@@ -5798,6 +5852,20 @@
       "jp": "着任応援パック・Ⅲ"
     },
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/support3.png",
+    "rarity": 4
+  },
+  "40015": {
+    "names": {
+      "en": "New Commanders Support Pack IV ",
+      "cn": "大型作战攻略支援包",
+      "jp": "着任応援パック・Ⅳ "
+    },
+    "display": {
+      "en": "New Commanders Support Pack IV ",
+      "cn": "大型作战攻略支援包",
+      "jp": "着任応援パック・Ⅳ "
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/support4.png",
     "rarity": 4
   },
   "40100": {
@@ -22694,6 +22762,110 @@
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/54000.png",
     "rarity": 1
   },
+  "58240": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58241": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58242": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58243": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58244": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58245": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58246": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58247": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58248": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58249": {
+    "names": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "display": {"en": "Mystery Design", "cn": "未知设计图", "jp": "ランダム設計図"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/55000.png",
+    "rarity": 1
+  },
+  "58250": {
+    "names": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "display": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/54000.png",
+    "rarity": 1
+  },
+  "58251": {
+    "names": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "display": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/54000.png",
+    "rarity": 1
+  },
+  "58252": {
+    "names": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "display": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/54000.png",
+    "rarity": 1
+  },
+  "58253": {
+    "names": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "display": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/54000.png",
+    "rarity": 1
+  },
+  "58254": {
+    "names": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "display": {"en": "Mystery Ship", "cn": "未知角色", "jp": "ランダムキャラ"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/54000.png",
+    "rarity": 1
+  },
+  "58255": {
+    "names": {
+      "en": "Gear Skin Box (Idolmaster)",
+      "cn": "外观装备箱（偶像大师）",
+      "jp": "装備外装箱（アイドルマスター）"
+    },
+    "display": {
+      "en": "Gear Skin Box (Idolmaster)",
+      "cn": "外观装备箱（偶像大师）",
+      "jp": "装備外装箱（アイドルマスター）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/appearanceboxidolmaster.png",
+    "rarity": 4
+  },
   "59000": {
     "names": {"en": "Ship EXP", "cn": "角色经验", "jp": "経験値"},
     "display": {"en": "Ship EXP", "cn": "角色经验", "jp": "経験値"},
@@ -23738,6 +23910,26 @@
     "names": {"en": "Bonus Ticket", "cn": "特别挑战券", "jp": "特別戦闘券"},
     "display": {"en": "Bonus Ticket", "cn": "特别挑战券", "jp": "特別戦闘券"},
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/special_ticket.png",
+    "rarity": 4
+  },
+  "59230": {
+    "names": {"en": "Collab Points ", "cn": "联动Pt", "jp": "コラボPt"},
+    "display": {"en": "Collab Points ", "cn": "联动Pt", "jp": "コラボPt"},
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolm_pt.png",
+    "rarity": 2
+  },
+  "59231": {
+    "names": {
+      "en": "Rental Outfit Voucher ",
+      "cn": "换装体验券",
+      "jp": "試着貸出チケット（2021.8.4まで）"
+    },
+    "display": {
+      "en": "Rental Outfit Voucher ",
+      "cn": "换装体验券",
+      "jp": "試着貸出チケット（2021.8.4まで）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/skinticket.png",
     "rarity": 4
   },
   "59601": {
@@ -27836,6 +28028,202 @@
       "jp": "好きな飲みもの(モニカ)"
     },
     "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/doa_collect.png",
+    "rarity": 4
+  },
+  "70079": {
+    "names": {
+      "en": "Idol Profile 1 (Haruka Amami)",
+      "cn": "资料收集①(天海春香) ",
+      "jp": "プロフィール①（天海春香）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Haruka Amami)",
+      "cn": "资料收集①(天海春香) ",
+      "jp": "プロフィール①（天海春香）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70080": {
+    "names": {
+      "en": "Idol Profile 2 (Haruka Amami)",
+      "cn": "资料收集②(天海春香) ",
+      "jp": "プロフィール②（天海春香）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Haruka Amami)",
+      "cn": "资料收集②(天海春香) ",
+      "jp": "プロフィール②（天海春香）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
+    "rarity": 4
+  },
+  "70081": {
+    "names": {
+      "en": "Idol Profile 1 (Chihaya Kisaragi)",
+      "cn": "资料收集①(如月千早) ",
+      "jp": "プロフィール①（如月千早）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Chihaya Kisaragi)",
+      "cn": "资料收集①(如月千早) ",
+      "jp": "プロフィール①（如月千早）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70082": {
+    "names": {
+      "en": "Idol Profile 2 (Chihaya Kisaragi)",
+      "cn": "资料收集②(如月千早) ",
+      "jp": "プロフィール②（如月千早）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Chihaya Kisaragi)",
+      "cn": "资料收集②(如月千早) ",
+      "jp": "プロフィール②（如月千早）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
+    "rarity": 4
+  },
+  "70083": {
+    "names": {
+      "en": "Idol Profile 1 (Iori Minase)",
+      "cn": "资料收集①(水濑伊织) ",
+      "jp": "プロフィール①（水瀬伊織）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Iori Minase)",
+      "cn": "资料收集①(水濑伊织) ",
+      "jp": "プロフィール①（水瀬伊織）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70084": {
+    "names": {
+      "en": "Idol Profile 2 (Iori Minase)",
+      "cn": "资料收集②(水濑伊织) ",
+      "jp": "プロフィール②（水瀬伊織）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Iori Minase)",
+      "cn": "资料收集②(水濑伊织) ",
+      "jp": "プロフィール②（水瀬伊織）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
+    "rarity": 4
+  },
+  "70085": {
+    "names": {
+      "en": "Idol Profile 1 (Azusa Miura)",
+      "cn": "资料收集①(三浦 梓) ",
+      "jp": "プロフィール①（三浦あずさ）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Azusa Miura)",
+      "cn": "资料收集①(三浦 梓) ",
+      "jp": "プロフィール①（三浦あずさ）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70086": {
+    "names": {
+      "en": "Idol Profile 2 (Azusa Miura)",
+      "cn": "资料收集②(三浦 梓) ",
+      "jp": "プロフィール②（三浦あずさ）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Azusa Miura)",
+      "cn": "资料收集②(三浦 梓) ",
+      "jp": "プロフィール②（三浦あずさ）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
+    "rarity": 4
+  },
+  "70087": {
+    "names": {
+      "en": "Idol Profile 1 (Ritsuko Akizuki)",
+      "cn": "资料收集①(秋月律子) ",
+      "jp": "プロフィール①（秋月律子）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Ritsuko Akizuki)",
+      "cn": "资料收集①(秋月律子) ",
+      "jp": "プロフィール①（秋月律子）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70088": {
+    "names": {
+      "en": "Idol Profile 2 (Ritsuko Akizuki)",
+      "cn": "资料收集②(秋月律子)",
+      "jp": "プロフィール②（秋月律子）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Ritsuko Akizuki)",
+      "cn": "资料收集②(秋月律子)",
+      "jp": "プロフィール②（秋月律子）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
+    "rarity": 4
+  },
+  "70089": {
+    "names": {
+      "en": "Idol Profile 1 (Ami Futami)",
+      "cn": "资料收集①(双海亚美) ",
+      "jp": "プロフィール①（双海亜美）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Ami Futami)",
+      "cn": "资料收集①(双海亚美) ",
+      "jp": "プロフィール①（双海亜美）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70090": {
+    "names": {
+      "en": "Idol Profile 2 (Ami Futami)",
+      "cn": "资料收集②(双海亚美) ",
+      "jp": "プロフィール②（双海亜美）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Ami Futami)",
+      "cn": "资料收集②(双海亚美) ",
+      "jp": "プロフィール②（双海亜美）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
+    "rarity": 4
+  },
+  "70091": {
+    "names": {
+      "en": "Idol Profile 1 (Mami Futami)",
+      "cn": "资料收集①(双海真美) ",
+      "jp": "プロフィール①（双海真美）"
+    },
+    "display": {
+      "en": "Idol Profile 1 (Mami Futami)",
+      "cn": "资料收集①(双海真美) ",
+      "jp": "プロフィール①（双海真美）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolphotos.png",
+    "rarity": 4
+  },
+  "70092": {
+    "names": {
+      "en": "Idol Profile 2 (Mami Futami)",
+      "cn": "资料收集②(双海真美) ",
+      "jp": "プロフィール②（双海真美）"
+    },
+    "display": {
+      "en": "Idol Profile 2 (Mami Futami)",
+      "cn": "资料收集②(双海真美) ",
+      "jp": "プロフィール②（双海真美）"
+    },
+    "icon": "https://raw.githubusercontent.com/Drakomire/perseus-data/master/AzurLaneImages/assets/artresource/atlas/props/idolarchives.png",
     "rarity": 4
   },
   "100000": {
