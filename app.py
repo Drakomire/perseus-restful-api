@@ -13,7 +13,8 @@ def startup():
     ship.startup()
 
 class Poll:
-    def __init__(self, interval=1):
+    def __init__(self, url, interval=1):
+        self.url = url
         self.interval = interval
         thread = threading.Thread(target=self.run, args=())
         thread.daemon = True
@@ -21,14 +22,14 @@ class Poll:
 
     def run(self):
         """ Method that runs forever """
-        getVersion = lambda: requests.get("https://raw.githubusercontent.com/Drakomire/perseus-data/master/dist/version").content
+        getVersion = lambda: requests.get(url+"version").content
         cur_version = getVersion()
-        init()
+        init(url=self.url)
         startup()
         while True:
             version = getVersion()
             if cur_version != version:
-                init()
+                init(url=self.url)
                 startup()
                 cur_version = version
                 print("Updated")
@@ -42,10 +43,16 @@ if __name__ == "__main__":
     def index():
         return 'Welcome to the Perseus API!. Please read the docs https://github.com/Drakomire/perseus-restful-api.'
 
-    poll = Poll(interval=60*6)
+    url = 'https://raw.githubusercontent.com/Drakomire/perseus-data/master/dist/'
+
+    createApp = lambda url: Poll(url, interval=60*6)
+
     if "prod" in sys.argv:
         print("Running waitress production server")
+        poll = createApp(url)
         serve(app,listen='*:5000')
     else:
         print("Running flask dev server")
+        url = 'https://raw.githubusercontent.com/Drakomire/perseus-data/restful/dist/'
+        poll = createApp(url)
         app.run(debug=True,port=5000,threaded=True)
