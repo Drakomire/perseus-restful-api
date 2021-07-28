@@ -38,6 +38,8 @@ def startup():
     all_ship_ids = []
     for i in ships:
         all_ship_ids += [ships[i]["id"]]
+    
+    all_ship_ids = json.dumps(all_ship_ids)
 
 
 @app.route('/ship/<path:id>')
@@ -65,4 +67,4 @@ def get_all_ships():
 
 @app.route('/ship/all_ids')
 def get_all_ship_ids():
-    return json.dumps(all_ship_ids)
+    return all_ship_ids
