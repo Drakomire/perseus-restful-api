@@ -4,7 +4,8 @@ You can host it your self but im fine with people using my server. Just know I'm
 ## Endpoints
 Root: `http://perseusapi.duckdns.org:5000/`
 
-Ships: `http://perseusapi.duckdns.org:5000/ship/<ship name or ship ID>`
+Ships: `http://perseusapi.duckdns.org:5000/ship/<ship name or ship ID>?[nicknames=True/False]` <br>
+Enabling nicknames will use my ship nickname DB when querying.
 
 Gear: `http://perseusapi.duckdns.org:5000/gear/stats/<gear ID>`
 
